@@ -9,7 +9,7 @@
   <p>Projeto de uma calculadora com HTML, CSS e JavaScript</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/calculator/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
+    <a href="https://github.com/Doug-Silva/calculator/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" alt="License MIT"></a>
   </div><br>
 
   <!--Adicionar imagem/gif do projeto aqui-->
